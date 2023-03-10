@@ -1,2 +1,2 @@
-# march-madness-visualization
-Project for big data about visualizing march madness brackets 
+# sports-bracket-visualization
+Project for big data about visualizing brackets 
